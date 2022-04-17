@@ -1,0 +1,26 @@
+Basic Validation - Account details are proper or not there
+Enhancement - star grades : count of hotels can be displayed
+Issue - It should display hotel which are available for the day
+Enhancement - Instead of showing oops not match found , it can show the next availabilities
+Issue - Suggestion hotel are getting into 404 error
+Issue - Hotelcount is not getting updated after filtering
+Issue - Page count is also not getting updated after filtering 
+Isuue - Most of buttons are not clickable
+
+Unable to proceed with booking scenario as all hotels are showing No Rooms available.
+
+ Key scenarios:
+-Profile Verification - complete login process, profile details, history, contact details, Account balance
+- Booking Scenario - Searching of hotel, selecting the required hotel, filling up the required details, payment, confirmation mail/sms.
+- Cancelation Scenario - Cancel from bookings, Partial cancelation, cancel confirmation, Refund process 
+
+● Exploration target: what scenario are you exploring? What’s the functionality?
+Booking scenarios, Booking
+● Does the site behave as you would expect? Did you discover anything that looks like
+a bug? Did you see anything you think could be improved?
+issues/enhancements
+● Prioritisation of those use cases - which area of the website or testing would you
+explore first and why?
+Profile validation and booking
+● What kind of risks do you need to mitigate for this type of application?
+Traffic , secure payments, privacy of customer details, Items added in the website should be genuine, Booking details should be in sync with hotels.
